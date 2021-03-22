@@ -46,3 +46,4 @@ After finish, you will get like this
 7. upload 'sqoop-incremental-imports.sh' into the plugins folder
 8. run the Airflow UI and trigger your dag's
 
+![alt text](https://github.com/rauldatascience/apache-sqoop-dag-cluster/blob/main/figure-resource/success-dags.png?raw=true)
